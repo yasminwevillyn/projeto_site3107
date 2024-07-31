@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+
+.dados{
+    text-align: center
+  }  
+/* formatar a imagem com cantos arredondados */
+img{
+ 
+}
+/* formatar Titulo com ID */
+#mimin{
+    font-family: "Kalnia Glaze", serif;
+    color: rgb(220, 26, 238);
+    font-size: 35px;  
+
+
+
+/*formatando o logo paris */
+.logoparis{
+ width: 150px
+ height: 150px
+}
+
+
+
+} 
+
+.perfil {
+    width: 240px;
+    height: 240px;
+    border: 5px solid black;
+}
+p{
+    
+    font-size: 3vh;
+}
